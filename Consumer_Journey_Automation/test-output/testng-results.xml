@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-06T14:44:16 IST" name="Default suite" finished-at="2026-10-06T14:44:33 IST" duration-ms="17377">
+    <groups>
+    </groups>
+    <test started-at="2026-10-06T14:44:16 IST" name="Default test" finished-at="2026-10-06T14:44:33 IST" duration-ms="17377">
+      <class name="smp.SMP">
+        <test-method is-config="true" signature="setup()[pri:0, instance:smp.SMP@c730b35]" started-at="2026-10-06T14:44:16 IST" name="setup" finished-at="2026-10-06T14:44:27 IST" duration-ms="10866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyOrderStatus()[pri:0, instance:smp.SMP@c730b35]" started-at="2026-10-06T14:44:27 IST" name="verifyOrderStatus" finished-at="2026-10-06T14:44:33 IST" duration-ms="6451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOrderStatus -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:smp.SMP@c730b35]" started-at="2026-10-06T14:44:33 IST" name="tearDown" finished-at="2026-10-06T14:44:33 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- smp.SMP -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
